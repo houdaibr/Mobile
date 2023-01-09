@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application-aseds</string>
+    <string name="commentaire"> Intent explicite et implicite</string>
+    <string name="intentexplicite"> Intent explicite</string>
+    <string name="intentimplicite"> Intent implicite</string>
+    <string name="monintentimplicite"> MY Intent implicite</string>
+
+</resources>

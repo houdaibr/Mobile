@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="title_activity_test">Test</string>
+    <string name="notation_inptistes">Notation INPTistes</string>
+    <string name="nouveau_texte">Texte au choix</string>
+    <string name="retrouver_notes">Retrouver Notes</string>
+    <string name="trouver_note_etudiant">Trouver la Note d\'un étudiant </string>
+    <string name="note_inptiste">Note inptiste</string>
+    <string name="note">Note</string>
+    <string name="nom_inptiste">Nom inptiste</string>
+    <string name="nom">Nom</string>
+    <string name="ajouter_note_inptiste">Ajouter note inptiste</string>
+    <string name="filiere">Filiere</string>
+</resources>

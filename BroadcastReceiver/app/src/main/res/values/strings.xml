@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application-HOUDA-ASEDS</string>
+    <string name="broadcast_d_intents">broadcast_d_intents</string>
+    <string name="broadcaster">Brodcaster</string>
+</resources>
